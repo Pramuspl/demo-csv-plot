@@ -1,5 +1,7 @@
 # CSV Data Plot in Preact
 
+### 🚀 https://demo-csv-plot.vercel.app/ 🚀
+
 My minimal implementation of a CSV Data Plot using [Preact](https://preactjs.com/) (with [signals](https://preactjs.com/guide/v10/signals/)), [papaparse](https://www.papaparse.com/), [recharts](https://recharts.org/) and [downsample](https://github.com/janjakubnanista/downsample).
 
 ## Installation and launching
